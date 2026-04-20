@@ -1,2 +1,2 @@
-numpy
-opencv-python
+numpy    (pip install numpy)
+opencv-python    (pip install opencv-python)
