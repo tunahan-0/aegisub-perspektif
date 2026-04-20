@@ -4,7 +4,7 @@ Bu araç, AI desteğiyle hazırlanmıştır. Dörtgen köşe koordinatlarını k
 
 ## Kurulum
 
-Versiyon sekmesinden .exe dosyasını indirip kullanabilirsiniz. Eğer .py dosyasını kullanmak istiyorsanız sisteminizde Python ve bazı Python kütüphaneleri yüklü olmalıdır, 'requirements.txt' dosyasında bulabilirsiniz.
+'Releases' sekmesinden .exe dosyasını indirip kullanabilirsiniz. Eğer .py dosyasını kullanmak istiyorsanız sisteminizde Python ve bazı Python kütüphaneleri yüklü olmalıdır, 'requirements.txt' dosyasında bulabilirsiniz.
 
 ## .py Dosyası İle Kullanım
 
