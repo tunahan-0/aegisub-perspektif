@@ -8,11 +8,11 @@ Versiyon sekmesinden .exe dosyasını indirip kullanabilirsiniz. Eğer .py dosya
 
 ## .py Dosyası İle Kullanım
 
-### Grafik Arayuzu (GUI)
+### Grafik Arayüzü (GUI)
 
 `python aegisub_perspective.py`
 
-### Komut Satiri (CLI)
+### Komut Satırı (CLI)
 Arayüze girmeden direkt komut satırından da hesaplama yaptırabilirsiniz:
 
 `python aegisub_perspective.py "x1,y1,x2,y2,x3,y3,x4,y4"`
