@@ -1,6 +1,6 @@
 # Aegisub Perspektif Hesaplayıcı
 
-Bu araç, dörtgen köşe koordinatlarını kullanarak ihtiyacımız olan Aegisub perspektif etiketlerini (\pos, \frz, \fscx, \fscy, \fax) hesaplamaya yarar. Hem grafik arayüzüyle hem de komut satırı üzerinden kullanılabilir.
+Bu araç, AI desteğiyle hazırlanmıştır. Dörtgen köşe koordinatlarını kullanarak ihtiyacımız olan Aegisub perspektif etiketlerini (\pos, \frz, \fscx, \fscy, \fax) hesaplamaya yarar. Hem grafik arayüzüyle hem de komut satırı üzerinden kullanılabilir.
 
 ## Kurulum
 
